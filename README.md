@@ -2,7 +2,7 @@
 
 🧠 Overview
 
-This project uses AI-powered forecasting to solve inefficiencies in the dairy supply chain. Using Python, Prophet, XGBoost, and time-series analytics, it predicts 7-day product-wise demand, optimizes inventory, and identifies plant utilization status (Underutilized | Optimal | Overloaded).
+This project uses forecasting to solve inefficiencies in the dairy supply chain. Using Python, Prophet, XGBoost, and time-series analytics, it predicts 7-day product-wise demand, optimizes inventory, and identifies plant utilization status (Underutilized | Optimal | Overloaded).
 
 The system also provides anomaly detection, ROI estimation, and stock-out alerts, ensuring smarter production planning and minimal wastage.
 
@@ -11,6 +11,7 @@ The system also provides anomaly detection, ROI estimation, and stock-out alerts
 The project improves dairy plant efficiency by forecasting demand and highlighting whether the plant is meeting, exceeding, or falling short of its capacity.
 
 It delivers:
+
 ✔ Product-wise demand forecasts
 ✔ Daily utilization status
 ✔ Alerts for stock-outs and overload
